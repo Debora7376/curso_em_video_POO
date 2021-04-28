@@ -1,8 +1,8 @@
 package aula07;
 
 public class Luta {
-    private String desafiado;
-    private String desafiante;
+    private Lutador desafiado;
+    private Lutador desafiante;
     private int rounds;
     private boolean aprovada;
 
