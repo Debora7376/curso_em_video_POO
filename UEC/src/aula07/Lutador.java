@@ -63,7 +63,7 @@ public class Lutador {
         setCategoria();
     }
 
-    private String getCategoria() {
+    String getCategoria() {
         return categoria;
     }
 
@@ -116,7 +116,7 @@ public class Lutador {
         System.out.println(getEmpates() + " empates");
     }
 
-    public void status () {
+    public void status() {
         System.out.println("-----------------------");
         System.out.println(this.getNome() + " é um peso " + getCategoria());
         System.out.println("Ganhou " + this.getVitorias() + " vezes");
