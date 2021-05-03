@@ -1,15 +1,9 @@
-package aula07;
+package ferreira.debora;
 
-public class Pessoa {
+public abstract class Pessoa {
     private String nome;
     private int idade;
     private String sexo;
-
-    public Pessoa(String nome, int idade, String sexo) {
-        this.nome = nome;
-        this.idade = idade;
-        this.sexo = sexo;
-    }
 
     public String getNome() {
         return nome;
@@ -35,7 +29,16 @@ public class Pessoa {
         this.sexo = sexo;
     }
 
-    public void fazerAniversario(){
+    public void fazerAniversario (){
         this.idade++;
+    }
+
+    @Override
+    public String toString() {
+        return "Dados{" +
+                "nome='" + nome + '\'' +
+                ", idade=" + idade +
+                ", sexo='" + sexo + '\'' +
+                '}';
     }
 }

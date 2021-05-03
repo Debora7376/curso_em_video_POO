@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00f7b357-2632-405b-9483-57e61b9ace1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Heranca/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heranca/.idea/Heranca.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heranca/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heranca/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heranca/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heranca/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heranca/heranca/heranca.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heranca/heranca/src/aula10/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heranca/heranca/src/aula10/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heranca/heranca/src/aula10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heranca/heranca/src/aula10/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heranca/heranca/src/aula10/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ferreira/debora/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ferreira/debora/Bolsista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ferreira/debora/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ferreira/debora/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ferreira/debora/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ferreira/debora/Visitante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/aula12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/src/ferreira/debora/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/src/ferreira/debora/Arara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/src/ferreira/debora/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/src/ferreira/debora/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/src/ferreira/debora/Canguru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/src/ferreira/debora/Cobra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/src/ferreira/debora/GoldFish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/src/ferreira/debora/Manifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/src/ferreira/debora/Peixe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/src/ferreira/debora/Reptil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula12/src/ferreira/debora/Tartaruga.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio09/out/production/exercicio09/aula07/Livro.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio09/out/production/exercicio09/aula07/Livro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio09/out/production/exercicio09/aula07/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio09/out/production/exercicio09/aula07/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio09/out/production/exercicio09/aula07/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio09/out/production/exercicio09/aula07/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio09/out/production/exercicio09/aula07/Publicacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio09/out/production/exercicio09/aula07/Publicacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio09/src/aula07/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio09/src/aula07/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio09/src/aula07/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio09/src/aula07/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio09/src/aula07/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio09/src/aula07/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio09/src/aula07/Publicacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio09/src/aula07/Publicacao.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1s2GNx8jjWIHoStKCngnzIzh1JR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ferreira.debora.Main" />
+      <module name="aula12" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="aula12" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="aula12" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00f7b357-2632-405b-9483-57e61b9ace1c" name="Default Changelist" comment="" />
+      <created>1620063240625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620063240625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
