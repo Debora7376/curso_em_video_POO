@@ -32,8 +32,8 @@ public class Main {
 //        a.fazerNinho();
 
         Manifero m = new Manifero();
-        Manifero c = new Canguru();
-        Manifero k = new Cachorro();
+        Canguru c = new Canguru();
+        Cachorro k = new Cachorro();
 
         m.setPeso(5.3f);
         m.setIdade(8);
